@@ -1,2 +1,1 @@
-# odin-hashmap
-The Odin Project - HashMap
+# The Odin Project - HashMap
